@@ -1,0 +1,9 @@
+torch>=2.0
+numpy
+pandas
+sentencepiece
+fastapi
+uvicorn
+pydantic
+safetensors
+numba
